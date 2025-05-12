@@ -15,7 +15,7 @@ spare parts on demand. The platform supports real-time service booking, spare in
 - Database: MySQL (via db.php)
   
 ## 📁 Project Structure
-bash
+```bash
 
 ChargeNFix/
 ├── db.php             
@@ -30,7 +30,7 @@ ChargeNFix/
 ├── style.css           
 ├── style2.css          
 └── style3.css           
-
+```
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository:
