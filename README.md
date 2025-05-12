@@ -34,9 +34,9 @@ ChargeNFix/
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository:
-bash
+```bash
 git clone https://github.com/abdallahelagamey/ChargeNFix.git
-
+```
 
 
 ### 2. Set Up the  Database:
